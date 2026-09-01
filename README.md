@@ -2,6 +2,7 @@
 
 ```bash
 brew tap henneberger/highwater
+brew trust --formula henneberger/highwater/highwater
 brew install highwater
 ```
 
